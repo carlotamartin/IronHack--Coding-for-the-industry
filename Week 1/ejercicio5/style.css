@@ -1,0 +1,28 @@
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #c496bb;
+    color: green;
+    text-decoration: underline;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+}
+p {
+    font-size: 16px;
+    font-weight: bold;
+    color: #c496bb;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+  }
+
+h4{
+    color: darkred;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+}
+

@@ -1,0 +1,20 @@
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #c496bb;
+    color: green;
+    text-decoration: underline;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #3f8fad;
+    width: 400px;
+    text-indent: 50px;
+    text-align: justify;
+    margin: 0 auto;
+}

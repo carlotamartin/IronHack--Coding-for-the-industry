@@ -1,0 +1,23 @@
+.body-box {
+    background-color: #00D1AE
+}
+
+.menu-box {
+    background-color: #00D1AE;
+    width: 400px;
+    height: 50px;
+}
+
+.content-box {
+    background-color: red;
+    width: 400px;
+    height: 20px;
+}
+
+.featured-box {
+    font-weight: 1000;
+    /* Lo pongo para ver que prevalece antes:
+    background-color: yellow;
+    Por lo tanto veo que prevalece más la segunda norma impuesta*/
+
+}
